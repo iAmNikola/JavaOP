@@ -1,0 +1,84 @@
+{
+  "JUNE" : [ ],
+  "FEBRUARY" : [ ],
+  "DECEMBER" : [ {
+    "plumberID" : "plumberilija",
+    "month" : "DECEMBER",
+    "totalEarnings" : 35000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "srpskecevirs",
+    "month" : "DECEMBER",
+    "totalEarnings" : 20000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "workerloader",
+    "month" : "DECEMBER",
+    "totalEarnings" : 50000,
+    "materialCostDif" : 20000
+  } ],
+  "JANUARY" : [ ],
+  "APRIL" : [ {
+    "plumberID" : "aleksandrija",
+    "month" : "APRIL",
+    "totalEarnings" : 75000,
+    "materialCostDif" : 40000
+  }, {
+    "plumberID" : "plumberilija",
+    "month" : "APRIL",
+    "totalEarnings" : 82000,
+    "materialCostDif" : 20000
+  }, {
+    "plumberID" : "srpskecevirs",
+    "month" : "APRIL",
+    "totalEarnings" : 20000,
+    "materialCostDif" : 0
+  } ],
+  "JULY" : [ {
+    "plumberID" : "aleksandrija",
+    "month" : "JULY",
+    "totalEarnings" : 20000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "plumberilija",
+    "month" : "JULY",
+    "totalEarnings" : 15000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "plumbermarko",
+    "month" : "JULY",
+    "totalEarnings" : 35000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "workerloader",
+    "month" : "JULY",
+    "totalEarnings" : 35000,
+    "materialCostDif" : 0
+  } ],
+  "OCTOBER" : [ ],
+  "MAY" : [ {
+    "plumberID" : "plumberilija",
+    "month" : "MAY",
+    "totalEarnings" : 20000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "plumbermarko",
+    "month" : "MAY",
+    "totalEarnings" : 19999,
+    "materialCostDif" : 0
+  } ],
+  "MARCH" : [ ],
+  "SEPTEMBER" : [ {
+    "plumberID" : "aleksandrija",
+    "month" : "SEPTEMBER",
+    "totalEarnings" : 20000,
+    "materialCostDif" : 0
+  }, {
+    "plumberID" : "srpskecevirs",
+    "month" : "SEPTEMBER",
+    "totalEarnings" : 15000,
+    "materialCostDif" : 0
+  } ],
+  "NOVEMBER" : [ ],
+  "AUGUST" : [ ]
+}

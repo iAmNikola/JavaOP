@@ -1,0 +1,36 @@
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-04-13T14:14:00', plumberID: plumberilija,
+  price: 15000, repairNo: 10001}
+- !!modules.PlumbingRepair {cost: 28000, datetime: '2020-04-16T20:20:00', plumberID: plumberilija,
+  price: 32000, repairNo: 10002}
+- !!modules.PlumbingRepair {cost: 30000, datetime: '2020-04-20T12:34:00', plumberID: plumberilija,
+  price: 35000, repairNo: 10003}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-04-13T14:14:00', plumberID: aleksandrija,
+  price: 15000, repairNo: 10004}
+- !!modules.PlumbingRepair {cost: 12000, datetime: '2020-04-16T20:20:00', plumberID: srpskecevirs,
+  price: 20000, repairNo: 10005}
+- !!modules.PlumbingRepair {cost: 50000, datetime: '2020-04-20T12:34:00', plumberID: aleksandrija,
+  price: 60000, repairNo: 10006}
+- !!modules.PlumbingRepair {cost: 13666, datetime: '2020-05-13T14:14:00', plumberID: plumbermarko,
+  price: 19999, repairNo: 10007}
+- !!modules.PlumbingRepair {cost: 12000, datetime: '2020-05-16T20:20:00', plumberID: plumberilija,
+  price: 20000, repairNo: 10008}
+- !!modules.PlumbingRepair {cost: 30000, datetime: '2020-07-20T12:34:00', plumberID: plumbermarko,
+  price: 35000, repairNo: 10009}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-07-13T14:14:00', plumberID: plumberilija,
+  price: 15000, repairNo: 10010}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-07-16T20:20:00', plumberID: aleksandrija,
+  price: 20000, repairNo: 10011}
+- !!modules.PlumbingRepair {cost: 30000, datetime: '2020-07-20T12:34:00', plumberID: workerloader,
+  price: 35000, repairNo: 10012}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-09-13T14:14:00', plumberID: srpskecevirs,
+  price: 15000, repairNo: 10013}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-09-16T20:20:00', plumberID: aleksandrija,
+  price: 20000, repairNo: 10014}
+- !!modules.PlumbingRepair {cost: 30000, datetime: '2020-12-20T12:34:00', plumberID: workerloader,
+  price: 35000, repairNo: 10015}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-12-13T14:14:00', plumberID: workerloader,
+  price: 15000, repairNo: 10016}
+- !!modules.PlumbingRepair {cost: 10000, datetime: '2020-12-16T20:20:00', plumberID: srpskecevirs,
+  price: 20000, repairNo: 10017}
+- !!modules.PlumbingRepair {cost: 30000, datetime: '2020-12-20T12:34:00', plumberID: plumberilija,
+  price: 35000, repairNo: 10018}
